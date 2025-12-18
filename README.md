@@ -9,8 +9,10 @@ This code uses a hybrid translation system for Greenlandic verbs. It consists of
 and deterministic algorithms which convert a conjugated Greenlandic verb into its English translation. It also contains built-in functions to calculate the ChrF (character frequency)
 and semantic similarity scores compared to a gold translation, and runs a loop that performs these benchmarking tests over a larger test set.
 
+The Greenlandic dictionary used is publicly available [here](https://dl.icdst.org/pdfs/files1/c1c88da4ceebc20292a8e8ef42dd0153.pdf).
+
 ## Running: 
 Just simply run the code in the Colab notebook Final_Project.ipynb in order
 
 ## Citation: 
-Dutta, Upamanyu. "Oqarpunga: A Hybrid Translation System for the Translation of Greenlandic (Kalaallisut) Verbs." 2025. [https://github.com/udutta143/ENG417A-FinalProjectGreenlandic/tree/main.](https://github.com/udutta143/ENG417A-FinalProjectGreenlandic/tree/main)
+Dutta, Upamanyu. "Oqarpunga: A Hybrid Translation System for the Translation of Greenlandic (Kalaallisut) Verbs." 2025. [https://github.com/udutta143/ENG417A-FinalProjectGreenlandic/tree/main](https://github.com/udutta143/ENG417A-FinalProjectGreenlandic/tree/main).
